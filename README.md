@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @N3ur0carma7
 - 👀 I’m interested in develloping minecraft mods with MCreator
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on a minecraft mod with a friend
-- 📫 How to reach me : you can't :)
+- 👀 I’m interested in develloping discord bots with Node.js
+- 🌱 I’m currently learning JavaScript (discord.js)
+- 📫 How to reach me : somewere on discord :)
 
 <!---
 N3ur0carma7/N3ur0carma7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
